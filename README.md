@@ -1,6 +1,6 @@
 ## Elegant Programming (优雅的编程)
 
-### 写在前面：
+### 写在前面：###
 
 <hr>
 
