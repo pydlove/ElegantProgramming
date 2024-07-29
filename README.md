@@ -26,6 +26,7 @@ Elegant Programming 是分享如何将代码写的更加优雅，代码不仅是
 
 
 <a href="https://github.com/pydlove/ElegantProgramming/blob/master/src/main/java/com/pany/camp/case1/ExceptionExample.java"> **1、Case1:** 如何优雅地捕获很多异常？</a>
+
 <a href="https://github.com/pydlove/ElegantProgramming/blob/master/src/main/java/com/pany/camp/case2/CallbackExample.java"> **1、Case2:** 如何巧妙的利用 Callback 来让业务更加纯粹？</a>
 
 
