@@ -24,11 +24,11 @@ Elegant Programming 是分享如何将代码写的更加优雅，代码不仅是
 
 ---- main                           （这里固定是有两个类，分别是 ExampleHandler 和 GraceExampleHandler）
 
------- ExampleHandler.java          （**这个是错误的案例，这是重点！！！**）
+------ ExampleHandler.java          （这个是错误的案例，这是重点！！！）
 
------- GraceExampleHandler.java     （**这个是正确的案例，这是重点！！！**）
+------ GraceExampleHandler.java     （这个是正确的案例，这是重点！！！）
 
----- XXXExample.java                （**这个是入口的类，这里面我会解释案例，这是重点！！！**）
+---- XXXExample.java                （这个是入口的类，这里面我会解释案例，这是重点！！！）
 ````
 
 **喜欢的同学就点个 star 吧，谢谢。**
