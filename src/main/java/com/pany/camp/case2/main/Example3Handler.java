@@ -1,10 +1,12 @@
-package com.pany.camp.case2;
+package com.pany.camp.case2.main;
 
+import com.pany.camp.case2.main.BusinessOperate;
+import com.pany.camp.case2.main.ExampleTool;
 import lombok.extern.slf4j.Slf4j;
 
 /**
  *
- * @description: ExampleHandler
+ * @description: Example3Handler
  * @copyright: @copyright (c) 2022 
  * @company: aiocloud
  * @author: panyong
@@ -12,7 +14,7 @@ import lombok.extern.slf4j.Slf4j;
  * @createTime: 2024-07-29 20:17
  */
 @Slf4j
-public class ExampleHandler {
+public class Example3Handler {
 
     public void handle() {
 

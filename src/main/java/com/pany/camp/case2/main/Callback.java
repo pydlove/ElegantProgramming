@@ -1,4 +1,4 @@
-package com.pany.camp.case2;
+package com.pany.camp.case2.main;
 
 /**
  *

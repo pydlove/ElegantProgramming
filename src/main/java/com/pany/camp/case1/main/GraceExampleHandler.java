@@ -1,4 +1,4 @@
-package com.pany.camp.case1;
+package com.pany.camp.case1.main;
 
 import com.pany.camp.case1.exception.*;
 import lombok.extern.slf4j.Slf4j;
