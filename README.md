@@ -37,7 +37,7 @@ Elegant Programming 是分享如何将代码写的更加优雅，代码不仅是
 ## 例子
 
 错误的写法
-````
+````java
 // 主要看这段代码，可以思考一下这种情况如何让可读性更强
 if (Objects.isNull(hostNo)) {
     if (!isOpenAutoRegister) {
@@ -53,7 +53,7 @@ if (Objects.isNull(hostNo)) {
 ````
 
 优雅的写法
-````
+````java
 // 主要看这段代码，下面的写法更加优雅，仅用了三行代码
 if (Objects.nonNull(hostNo)) {
     return Integer.parseInt(String.valueOf(hostNo));
