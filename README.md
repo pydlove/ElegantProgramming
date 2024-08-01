@@ -31,6 +31,8 @@ Elegant Programming 是分享如何将代码写的更加优雅，代码不仅是
 
 <a href="https://github.com/pydlove/ElegantProgramming/blob/master/src/main/java/com/pany/camp/case3/ThreadPoolExample.java"> **1、Case3:** 线程池如何优雅的保护内存，如何优雅的统一管理？ </a>
 
+<a href="https://github.com/pydlove/ElegantProgramming/blob/master/src/main/java/com/pany/camp/case3/ThreadPoolExample.java"> **1、Case3:** 用返回代替传参会更加优雅 </a>
+
 
 
 ## License
