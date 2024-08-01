@@ -34,6 +34,34 @@ Elegant Programming 是分享如何将代码写的更加优雅，代码不仅是
 **喜欢的同学就点个 star 吧，谢谢。**
 
 
+## 例子
+
+错误的写法
+````
+// 主要看这段代码，可以思考一下这种情况如何让可读性更强
+if (Objects.isNull(hostNo)) {
+    if (!isOpenAutoRegister) {
+        return DEFAULT_NO;
+    } else {
+        // 这里是注册主机的编号，由于案例请忽略分布式线程安全问题
+        return registerHostNo(hostNoKey);
+    }
+} else {
+    return Integer.parseInt(String.valueOf(hostNo));
+}
+
+````
+
+优雅的写法
+````
+// 主要看这段代码，下面的写法更加优雅，仅用了三行代码
+if (Objects.nonNull(hostNo)) {
+    return Integer.parseInt(String.valueOf(hostNo));
+}
+
+return isOpenAutoRegister ? registerHostNo(hostNoKey) : DEFAULT_NO;
+````
+
 ## 目录
 
 
