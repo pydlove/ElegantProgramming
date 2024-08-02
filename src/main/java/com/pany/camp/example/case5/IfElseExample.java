@@ -16,7 +16,7 @@ public class IfElseExample {
 
     public static void main(String[] args) {
 
-        // 主题：如何让 if-else 的代码更加优雅？
+        // 主题：如何让两层 if-else 的代码更加优雅？
         //
         // 首先我说下需求：我需要在 redis 上管理每个主机的编号，主机编号是从 1 开始自增，
         // 并且有一个配置控制是否开启这种自动自增编号的，如果配置开启，就自增编号，

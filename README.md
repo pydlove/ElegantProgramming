@@ -73,7 +73,7 @@ return isOpenAutoRegister ? registerHostNo(hostNoKey) : DEFAULT_NO;
 
 <a href="https://github.com/pydlove/ElegantProgramming/blob/master/src/main/java/com/pany/camp/example/case4/ParamExample.java">**1、Case4:** 用返回代替传参会更加优雅 </a>
 
-<a href="https://github.com/pydlove/ElegantProgramming/blob/master/src/main/java/com/pany/camp/example/case5/IfElseExample.java">**1、Case5:** 如何让 if-else 的代码更加优雅？ </a>
+<a href="https://github.com/pydlove/ElegantProgramming/blob/master/src/main/java/com/pany/camp/example/case5/IfElseExample.java">**1、Case5:** 如何让两层 if-else 的代码更加优雅？ </a>
 
 
 
